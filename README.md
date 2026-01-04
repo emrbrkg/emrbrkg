@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emrbrkg
-- 👀 I’m interested in artificial intellegence , machine leaarning , programming mobile apps and games......
-- 🌱 I’m currently learning Java Sprin Boot...
-- 💞️ I’m looking to collaborate on programming....
+- 👀 I’m interested in backend development
+- 🌱 I’m currently working with Java Spring Boot and Java ecosystem technologies
 - 📫 How to reach me .emrbrkg@gmail.com..
 
 <!---
